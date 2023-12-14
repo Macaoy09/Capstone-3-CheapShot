@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cardHighlight {
+  min-height: 100%;
+}
+
+.logo {
+  height: 60px;
+	width: 60px;
+}
+
+.bgColor {
+  background-color: #c8ff0e;
+}
+
+.footerImgSize {
+  height: 33px;
+  width: 40px;
+}
+
+.productImg {
+  height: 70px;
+  width:  70px;
+}
